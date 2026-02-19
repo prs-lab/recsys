@@ -1,2 +1,2 @@
 # recsys
-Recsys project repo
+Recsys projects repo
